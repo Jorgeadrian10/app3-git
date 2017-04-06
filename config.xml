@@ -35,7 +35,7 @@
   
  <!-- para accesar a paginas en internet -->
   <allow-intent href="https://*/*"/>
-  <acces origin="htpps://*/*"/>
+  <acces origin="htpp://*/*"/>
   <allow-intent href="htpps://*/*"/>
   <acces origin="htpp://*/*"/>
   <plugin name="cordova-plugin-whitelist" source="npm"/>
